@@ -1,0 +1,37 @@
+<h1>Zeitgeist-Freizeit</h1>
+<html>
+  <title>
+    Lina Luft says..
+  </title>
+  
+  <body>
+    <p14> Here you can get all important information concerning the Zeitgeist-Freizeit (29.7.2019 - 4.8.2019) </p14>
+    <p> ... </p>
+    <p20> <a href="http://linaluft.org/Struktureller%20Antisemitismus%20in%20der%20Kritikkultur.pdf"> Struktureller Antisemitismus in der Kritikkultur </a> </p20>
+   
+
+   
+
+  </body>
+  
+  <style>
+    p14 {
+      font-family: georgia;
+      font-size: 14px;
+    }
+    
+    p20 {
+      font-family: georgia;
+      font-size: 20px;
+    }
+    
+    body {
+      background-color:green;
+      color:#fff;
+      text-align:left;
+    }
+    
+    
+    
+  </style>
+</html>
