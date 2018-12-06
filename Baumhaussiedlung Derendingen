@@ -1,0 +1,52 @@
+<h1>Baushaussiedlung Derendingen</h1>
+<html>
+  <title>
+    Lina Luft says..
+  </title>
+  
+  <body>
+
+    <p14> <a href="http://linaluft.org/"> << zurück zur Hauptseite </a> </p14>
+    <br>
+    <br>
+    
+    <p16> Here you can find Pictures of Derendinger Baumhaussiedlung before and after the eviction: </p16>
+    <br>
+    <br>
+    <p12> <a href="http://linaluft.org/Zeitgeist-Freizeit-2019_ger.pdf"> Invitation_Zeitgeist-Freizeit-2019.pdf </a> (German) </p12>
+    <br>
+    <p12> <a href="http://linaluft.org/Zeitgeist-Freizeit-2019_ger_druckversion.pdf"> Invitation_Zeitgeist-Freizeit-2019_print_version.pdf </a> (German) </p12>
+    
+    <br>  
+    <br> 
+    <p14> <a href="http://linaluft.org/"> << zurück zur Hauptseite <P align=right> </a> <a href="http://linaluft.org/Impressum.html"> Impressum >> </a> </P> </p14>    
+    
+  </body>
+  
+  <style>
+    
+    p12 {
+      font-family: georgia;
+      font-size: 12px;
+    }
+    
+    p14 {
+      font-family: georgia;
+      font-size: 14px;
+    }
+    
+    p20 {
+      font-family: georgia;
+      font-size: 20px;
+    }
+    
+    body {
+      background-color:green;
+      color:#fff;
+      text-align:left;
+    }
+    
+    
+    
+  </style>
+</html>
